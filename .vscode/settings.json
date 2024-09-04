@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/16245a60-c3c1-4513-bf34-a714d36b7b9b/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/pinecone-proxy",
+  "appService.deploySubpath": "."
+}
